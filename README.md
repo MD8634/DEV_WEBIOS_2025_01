@@ -1,9 +1,6 @@
 # DEV_WEBIOS_2025_01
 
-Olá mundo
-
-Hello word
-
-SOCORRO WORLD
-
-Git vei podi
+- Ter mais tempo de qualidade
+- Um bom emprego
+- Estabilidade financeira
+- Zerar todos os Resident Evil
